@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">General Knowledge Quiz</string>
+    <string name="nameHint">Enter your name</string>
+    <string name="q1">1.What falling object is said to have inspired Isaac Newton\'s theories about gravity?</string>
+    <string name="ans1A">Orange</string>
+    <string name="ans1B">Plum</string>
+    <string name="ans1C">Pineapple</string>
+    <string name="ans1D">Apple</string>
+    <string name="q2">2.What is the name of this painting?</string>
+    <string name="contentDescription">Image</string>
+    <string name="ans2A">American Gothic</string>
+    <string name="ans2B">The Birth of Venus</string>
+    <string name="ans2C">Mona Lisa</string>
+    <string name="ans2D">The Scream</string>
+    <string name="q3">3.Which word does the \'e\' in \'e-mail\' stand for?</string>
+    <string name="ans3A">Equal</string>
+    <string name="ans3B">Energy</string>
+    <string name="ans3C">Electronic</string>
+    <string name="ans3D">Every</string>
+    <string name="q4">4.What is the capital of France?</string>
+    <string name="ans4Hint">Type here</string>
+    <string name="q5">5.Which of the following languages are spoken in India?</string>
+    <string name="ans5A">Hindi</string>
+    <string name="ans5B">Tamil</string>
+    <string name="ans5C">Chinese</string>
+    <string name="ans5D">Telugu</string>
+    <string name="submit">Submit</string>
+</resources>
